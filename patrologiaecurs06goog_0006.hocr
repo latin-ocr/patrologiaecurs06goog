@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./patrologiaecurs06goog/patrologiaecurs06goog_0006.png"; bbox 0 0 3908 6156; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 540 2890 1635 2962">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 540 2890 1635 2962">
+     <span class='ocr_line' id='line_1_1' title="bbox 540 2890 1635 2962; baseline -0.003 -17"><span class='ocrx_word' id='word_1_1' title='bbox 540 2892 638 2959; x_wconf 76' lang='lat' dir='ltr'>Cliehy.</span> <span class='ocrx_word' id='word_1_2' title='bbox 650 2918 685 2935; x_wconf 89' lang='lat'>-</span> <span class='ocrx_word' id='word_1_3' title='bbox 696 2890 733 2942; x_wconf 73' lang='lat' dir='ltr'><strong>Ex</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 750 2894 820 2962; x_wconf 71' lang='lat' dir='ltr'>typis</span> <span class='ocrx_word' id='word_1_5' title='bbox 835 2892 917 2945; x_wconf 51' lang='lat' dir='ltr'><strong>mut</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 932 2892 1068 2951; x_wconf 66' lang='lat' dir='ltr'><strong>uci‘orff,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1087 2896 1126 2959; x_wconf 75' lang='lat'><strong>¹2,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1141 2894 1185 2944; x_wconf 69' lang='lat' dir='ltr'><strong>vu</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 1201 2894 1267 2945; x_wconf 65' lang='lat' dir='ltr'><strong>diae</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1283 2892 1500 2945; x_wconf 56' lang='lat' dir='ltr'><strong>[munitm.</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1516 2894 1635 2948; x_wconf 61' lang='lat' dir='ltr'><strong>som.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 48 1958 6148">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 48 1958 6148">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 48 1958 6148; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 48 1958 6148; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
